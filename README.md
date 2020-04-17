@@ -7,9 +7,9 @@ A material design inspired snackbar for your webpage
   ```sh
 createSnackbar(message, actionText, action);
 ```
-**message** main text that will be displayed to the user
-**actionText** button text.
-**action** function that the actionbutton will bind an on-click listener for, if not provided with a function it will act as an dissmiss button.
+**message** main text that will be displayed to the user <br/>
+**actionText** button text. <br/>
+**action** function that the actionbutton will bind an on-click listener for, if not provided with a function it will act as an dissmiss button. <br/>
 
 # Sample Usage
   ```sh
